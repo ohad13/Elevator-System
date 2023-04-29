@@ -6,3 +6,13 @@ To compile and run the app:
 ```sh
 npm run dev
 ```
+
+Initial state:
+
+![image](https://user-images.githubusercontent.com/63229346/235310118-60e87a41-9c46-44c1-b05f-3eb7de19d0db.png)
+
+
+In action:
+
+![image](https://user-images.githubusercontent.com/63229346/235310255-aeef90ea-7e09-4070-b3d4-b57f72fb2dbd.png)
+
